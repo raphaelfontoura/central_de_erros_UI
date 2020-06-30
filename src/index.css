@@ -245,7 +245,6 @@ body{
   }
 }
 
-
 @keyframes moveInLeft {
   0% {
       opacity: 0;
@@ -268,7 +267,6 @@ body{
   }
 }
 
-
 @keyframes reSize {
   0% {
       width: 100px;
@@ -289,7 +287,6 @@ body{
   }
 }
 
-
 .btn:link,
 .btn:visited{
   text-transform: uppercase ;
@@ -306,7 +303,6 @@ body{
   animation-fill-mode: backwards;
 }
 
-
 @media (max-width:1300px){
   .heading-primary-main{
     display: block;
@@ -317,7 +313,6 @@ body{
     animation-duration: 2s;
   }
 }
-
 
 @media (max-width:1000px){
   .heading-primary-main{
@@ -362,7 +357,6 @@ body{
 .btn-white::after{
   background-color: #fff;
 }
-
 
 .btn:hover::after{
   transform: scale(1.4);
