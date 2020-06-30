@@ -245,7 +245,6 @@ body{
   }
 }
 
-
 @keyframes moveInLeft {
   0% {
       opacity: 0;
@@ -268,7 +267,6 @@ body{
   }
 }
 
-
 @keyframes reSize {
   0% {
       width: 100px;
@@ -288,7 +286,6 @@ body{
       transform: translateY(0);
   }
 }
-
 
 .btn:link,
 .btn:visited{
@@ -362,7 +359,6 @@ body{
 .btn-white::after{
   background-color: #fff;
 }
-
 
 .btn:hover::after{
   transform: scale(1.4);
